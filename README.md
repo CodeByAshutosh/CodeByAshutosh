@@ -5,20 +5,6 @@
 
 ---
 
-## 🎓 Education
-
-### State University of New York at Binghamton
-**Master of Science in Information Systems**  
-Expected May 2025  
-- **Relevant Coursework:** Database Systems, Software Project Management, OO Design with Design Patterns, Data Analytics for Security, Web-based Programming, Applied Data Mining, Applied Machine Learning
-
-### University of Mumbai
-**Bachelor of Engineering in Information Technology**  
-June 2020  
-- **Relevant Coursework:** Structured Programming Approach, Java, Operating Systems, Database Management System, Computer Organization and Architecture, Data Structure and Analysis, Artificial Intelligence, Internet of Everything
-
----
-
 ## 💻 Technical Skills
 
 ### Languages
@@ -58,10 +44,3 @@ June 2020
 - Deployed SQL queries, integrated APIs with Angular framework, and performed unit and functional testing to maintain a clean codebase.
 
 ---
-
-## 🏆 Leadership Experience
-
-### QA Lead, SPOC | May 2021 – February 2022
-- Conducted various QA testing types, identified over 1000 critical bugs, and received QA Excellence Award from the organization.
-- Presented findings to the development team, advocated for bug fixes, and improved the application rating on Google Playstore.
-
