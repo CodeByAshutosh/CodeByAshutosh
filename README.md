@@ -1,7 +1,7 @@
 # Ashutosh Ajay Shukla
 
 📍 Binghamton, NY | 📞 (607) 296-8649 | 📧 ashukla4@binghamton.edu | 👔 [LinkedIn](https://www.linkedin.com/in/shukla-ashu/)  
-🌟 **Seeking Summer Internships: May 2024 – August 2024**
+🌟 **Seeking Full-Time Opportunities**
 
 ---
 
@@ -35,9 +35,9 @@
 
 ## 🛠️ Project Experience
 
-### Smart Campaign Manager, Full Stack Developer | November 2022 – July 2023
-- Developed APIs using Apache Kafka to deliver promotional notifications across Android, iOS, and Web platforms targeting 70 million users daily.
-- Integrated APIs into Angular framework, performed unit and integration testing, and ensured data integrity and security with SQL.
+### Multiplayer Chat Application with bot integration, Academic Project | October 2024 – December 2024
+- Engineered a real-time chat application using Python, Django, and WebSocket, enabling simultaneous communication between users and AI-driven bots, supporting 5,000+ concurrent users with low latency
+- Implemented long polling and event-driven design patterns, reducing bot response time by 40%, ensuring instantaneous interactions between users and integrated chatbots
 
 ### WhatsApp Campaign Manager, Full Stack Developer | April 2022 – October 2022
 - Programmed APIs using Java, Spring Boot, and Spring Batch to deliver promotional WhatsApp messages to 50 million recipients daily.
