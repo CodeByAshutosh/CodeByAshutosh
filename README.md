@@ -1,6 +1,6 @@
 # Ashutosh Ajay Shukla
 
-📍 Binghamton, NY | 📞 (607) 296-8649 | 📧 ashukla4@binghamton.edu | 👔 [LinkedIn](https://www.linkedin.com/in/shukla-ashu/)  
+📍 Binghamton, NY | 📞 (607) 296-8649 | 📧 shukla.ashu.official@gmail.com | 👔 [LinkedIn](https://www.linkedin.com/in/shukla-ashu/)  
 🌟 **Seeking Full-Time Opportunities**
 
 ---
@@ -21,12 +21,12 @@
 ## 📂 Professional Experience
 
 ### Jio Platforms Limited, Mumbai, India
-**Software Development Engineer** | March 2022 – July 2023
+**Software Development Engineer** | July 2021 – July 2023
 - Developed APIs using Java, Spring, Spring Boot, and Spring Batch for an internal portal delivering promotional WhatsApp messages to 50 million recipients daily.
 - Designed frontend UI system using Angular framework and implemented lazy loading, improving app stability by 40%.
 - Achieved a 30% reduction in app's memory consumption by optimizing logging scripts.
 
-**Graduate Engineer Trainee** | November 2020 – February 2022
+**Graduate Engineer Trainee** | July 2020 – July 2021
 - Designed comprehensive test cases, performed various testing types, and validated software functionality, reducing customer support incidents by 20%.
 - Analyzed and reported bugs using DevOps tools, contributing to the increase of the overall rating on Google Playstore from 3 to 4.5 stars.
 - Completed a data visualization project on Marijuana arrest dataset using Tableau, achieving a model accuracy of 95% with linear regression.
