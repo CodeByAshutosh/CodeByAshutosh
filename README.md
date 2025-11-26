@@ -20,8 +20,26 @@
 
 ## 📂 Professional Experience
 
+###Alation Apr 2025– Current
+AI Engineer
+• Developed and optimized AI-powered metadata extraction pipelines, improving automated data classification accuracy by ~35% across
+enterprise datasets.
+• Built NLP models using Python, Transformers, and LLM frameworks to enhance Alation’s search relevance and query recommendations,
+increasing user retrieval efficiency by 25%.
+• Implemented ML-based data quality scoring and anomaly detection workflows, helping reduce mis-tagged assets by 30% and improving
+governance reporting accuracy.
+• Designed and deployed RAG (Retrieval-Augmented Generation) components integrated with Alation’s Data Catalog, enabling faster
+insights generation and reducing manual documentation time by 40%.
+• Collaborated with cross-functional teams (Product, Data Governance, Engineering) to optimize AI inference pipelines, improving model
+latency by 20–30% across cloud environments (AWS/GCP).
+• Created reusable ML microservices and APIs for metadata enrichment and lineage prediction, supporting 5+ internal product features and
+reducing engineering effort by 15%.
+• Conducted continuous model monitoring, A/B testing, and performance tuning to maintain >95% precision for AI-driven data
+recommendations and search ranking.
+
+
 ### Jio Platforms Limited, Mumbai, India
-**Software Development Engineer** | July 2021 – July 2023
+**Software Development Engineer** | Nov 2020 – July 2023
 - Developed APIs using Java, Spring, Spring Boot, and Spring Batch for an internal portal delivering promotional WhatsApp messages to 50 million recipients daily.
 - Designed frontend UI system using Angular framework and implemented lazy loading, improving app stability by 40%.
 - Achieved a 30% reduction in app's memory consumption by optimizing logging scripts.
