@@ -20,7 +20,8 @@
 
 ## 📂 Professional Experience
 
-###Alation Apr 2025– Current
+###Alation 
+Apr 2025– Current
 AI Engineer
 • Developed and optimized AI-powered metadata extraction pipelines, improving automated data classification accuracy by ~35% across
 enterprise datasets.
