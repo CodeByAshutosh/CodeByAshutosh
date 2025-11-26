@@ -21,8 +21,7 @@
 ## 📂 Professional Experience
 
 ###Alation 
-Apr 2025– Current
-AI Engineer
+**AI Engineer** | Apr 2025– Current
 • Developed and optimized AI-powered metadata extraction pipelines, improving automated data classification accuracy by ~35% across
 enterprise datasets.
 • Built NLP models using Python, Transformers, and LLM frameworks to enhance Alation’s search relevance and query recommendations,
